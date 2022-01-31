@@ -14,6 +14,6 @@ Link to the video: https://www.youtube.com/watch?v=T6A4fnxgclM
 
 [![IMAGE_ALT](https://img.youtube.com/vi/T6A4fnxgclM/0.jpg)](https://www.youtube.com/watch?v=T6A4fnxgclM)
 
-## Git repository
+## Documentation (IN FRENCH)
 
-Lien du rapport (FRENCH VERSION): https://github.com/AnasNeumann/twins/blob/main/TheTwins_doc.pdf
+Lien du rapport : https://github.com/AnasNeumann/twins/blob/main/TheTwins_doc.pdf
