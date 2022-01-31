@@ -1,5 +1,6 @@
-# twins
-Our final scholar project for the bachelor's degree: 3D video game using Unity (C# and JS) and PHP
+# THE TWINS
+
+Our final scholar project for the bachelor's degree (in 2013/2014): 3D video game using Unity (C# and JS) and PHP
 
 Link to the YouTube video: https://www.youtube.com/watch?v=T6A4fnxgclM
 
